@@ -1,1 +1,1 @@
-My first readme
+Starting my alx journey
